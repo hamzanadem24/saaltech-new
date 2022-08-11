@@ -1,0 +1,20 @@
+.fa-6x{font-size:6em}
+
+.redux-container-image_select label.redux-image-select span {
+	font-size: 11px;
+}
+
+.redux-field-container .select2-container .select2-choice .select2-arrow,
+.redux-field-container .select2-container .select2-choice .select2-arrow b:after {
+	border-color: transparent;
+}
+
+/* */
+#import-sample-data-log {
+	width: 60%;
+	height: 130px;
+	border: 1px solid #DDD;
+	margin: 10px 0;
+	padding: 5px;
+	overflow: scroll;
+}

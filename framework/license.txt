@@ -1,0 +1,12 @@
+//
+// Ivan Framework License
+//
+
+Aside ThemeForest Standard license - a few items must be respected when using Ivan Framework as base of a theme that will/are sold.
+
+You CAN'T:
+
+- From these theme files, derivate more themes to sell without the proper license agreement between Ivan Framework Owner and you (the seller)
+- Copy the features and implementation techniques used by the framework in other themes that will be sold
+
+In plain english, you can't use this theme or the features implemented (the code) in other themes that will be sold.
